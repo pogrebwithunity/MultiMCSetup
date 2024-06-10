@@ -1,0 +1,2 @@
+# MultiMCSetup
+MultiMC Launcher installer
